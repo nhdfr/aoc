@@ -90,5 +90,5 @@ year/dayXX/
 
 ## Contact me
 If you have any questions or suggestions, feel free to reach out:
-- **Twitter:** [@nturfff](https://twitter.com/nturfff)
+- **Twitter:** [@d3xfoo](https://x.com/d3xfoo)
 ---
